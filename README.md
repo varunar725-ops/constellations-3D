@@ -12,11 +12,8 @@ The sky is projected around the observer: constellation stick figures, named sta
 
 ## 🌐 View the live website
 
-👉 **[**Open Celestial 3D — 3D Constellation Sky**](https://yourname.github.io/constellation-sky/)**
+👉 **[**Open Celestial 3D — 3D Constellation Sky**](https://varunar725-ops.github.io/constellations-3D/)**
 
-> ⚠️ **Replace the placeholder URL above** (`https://yourname.github.io/constellation-sky/`) with your actual GitHub Pages address once deployed — see *Deploy to GitHub Pages* below.
-
----
 
 ## ✨ Features
 
