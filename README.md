@@ -14,6 +14,7 @@ The sky is projected around the observer: constellation stick figures, named sta
 
 👉 **[**Open Celestial 3D — 3D Constellation Sky**](https://varunar725-ops.github.io/constellations-3D/)**
 
+---
 
 ## ✨ Features
 
@@ -53,7 +54,7 @@ Then open <http://localhost:8000>.
 npx serve constellation-sky      # or: php -S localhost:8000
 ```
 
-**Deploy to GitHub Pages:** push the folder to a repository, then enable *Settings → Pages → deploy from a branch* (choose the project root). The site will be live at `https://<user>.github.io/<repo>/`. After deploying, **replace the placeholder link in the "View the live website" section at the top of this README** with your real Pages URL so viewers can click straight into the site.
+**Deploy to GitHub Pages:** push the folder to a repository, then enable *Settings → Pages → deploy from a branch* (choose the project root). The site will be live at your Pages address (e.g. `https://<user>.github.io/<repo>/`), and the link in the **"View the live website"** section at the top of this README points straight to it.
 
 > **Note on location permission:** browsers only allow geolocation on secure contexts (`http://localhost` or `https://`). If you open `index.html` directly from disk (`file://`), the "Use my location" button will report that geolocation is unavailable — just enter coordinates manually, or serve the folder over HTTP as above.
 
